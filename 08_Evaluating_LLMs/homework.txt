@@ -1,0 +1,33 @@
+What do you think is a particularly good use case for LLMs for science? How would you evaluate it?
+
+This answer is based on my personal view as a theoretical postdoc in the fundamental research in the Atomic,
+Molecular, and Optical Sciences. 
+
+At this moment, I don't use any LLMs in my research. I spent some time with ChatGPT but
+the answers are not very reliable and I feel like to check everything renders the LLMs
+not very useful in my case. Another problem I have with the current LLMs is that they basically always 
+have an answer and are not able to determined that the task is beyond their capabilities. I understand
+that it comes from the probabilistic nature of the models.
+However, I see two good use cases for my work after improving the abilities of LLMs.
+
+1) Using LLMs to find and summarize relevant literature and references: 
+Especially when starting a new project, reviewing the existing literature is tedious task
+because in my field there may be ~50 years of research. The first easier task that
+would be useful is to only find the relevant references including the very new ones.
+It is possible that this currently works. Second, it would be useful to summarize and extract
+information from the references. For example, I often times look for potential energies
+of various molecular and ion states but different calculations focused on different subsets 
+of the states. Thus, it would be very useful if the LLMS could collect the data from multiple
+papers but keep the references to the original sources to easily verify or look for more details.
+
+
+2) Help with writing code and test it:
+A large part of my work is writing code for numerical simulations. I know that there are many LLMs 
+that focus on this task. I haven't used them myself yet but I watched some videos. It seems that
+some of them works well for simple tasks but I haven't seen their use for a more complex tasks. 
+
+
+This course motivated me to look more into the current available LLMs. In general, I would appreciate
+LLMs for automating routine but tedious tasks while I can do the hard thinking. 
+
+
